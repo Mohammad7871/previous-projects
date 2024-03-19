@@ -1,0 +1,17 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: content-box;
+    background-color: rgb(97, 97, 97);
+    color: azure;
+}
+.bg{
+    background-color: aliceblue;
+    height: 700vh;
+    width: 100vw;
+    background-image: url(part1.jpg);
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size:cover ;background-attachment: fixed;
+
+}

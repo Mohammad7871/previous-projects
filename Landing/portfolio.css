@@ -1,0 +1,35 @@
+   url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&family=Roboto:wght@300&display=swap'); 
+
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    line-height: 1.4;
+    font-weight: 300;
+    
+    font-family: 'Roboto Slab', serif;
+}
+.sectionone{
+    background-image: url(Landing/1.jpg );
+     min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+.firstdiv {
+    color: aliceblue;
+    max-width: 900px;
+    margin: 0 auto;
+    padding-left: 16px;
+    padding-top: 64px;
+   
+}
+.ltext{
+     
+    font-size: 72px;
+} 
+
+
+

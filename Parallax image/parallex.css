@@ -1,0 +1,63 @@
+html,
+body{
+    font-family: "lato", sans-serif;
+    height: 100%;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 0;
+    line-height: 1.8em;
+    color: #666;
+}
+.pic1{
+    background-image: url(trees-3294681_1920.jpg);
+    min-height: 100%;
+}
+.pic2{
+     background-image: url(part3.jpg); 
+    min-height: 400px;
+}
+.pic3{
+     background-image: url(part4.jpg); 
+    min-height: 100%;
+}
+
+.pic1, .pic2, .pic3{
+    position: relative;
+    background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+
+}
+.div1{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    letter-spacing: 7px;
+    font-size: 27px;
+    text-transform: uppercase;
+}
+.text{
+    background-color: #3b3b3b;
+    color: aliceblue;
+    padding: 20px;
+}
+.section{
+    padding: 50px 80px;
+    text-align: center;
+}
+.section-light{
+    padding: 50px 80px;
+    text-align: center;
+    background-color:fff;
+    color: rgb(64, 63, 62);
+
+
+}
+.section-dark{
+    padding: 50px 80px;
+    text-align: center;
+    background-color:rgb(84, 83, 83);
+    color: rgb(255, 255, 255);

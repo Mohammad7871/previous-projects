@@ -1,0 +1,405 @@
+.requestnow-button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 0px;
+    height: 34px;
+    width: 105px;
+    border: 0px;}
+.requestnow-button:hover{
+    opacity: 0.6;}
+
+
+
+
+
+
+
+
+.Add-button{
+   background-color: rgb(255,216, 20);
+    color: black;
+    height: 30px;
+    width: 125px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;}
+.Add-button:hover{
+   background-color:rgb(238, 202, 56) ;}
+
+
+
+
+
+
+
+
+
+.up-button{
+    background-color: rgb(46, 164, 79);
+    color: azure;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 5px;
+    height:35px ;
+    width: 80px;
+    border: none;}
+.up-button:hover{
+    box-shadow: 5px 5px 20px rgba(0, 0,0, 0.7)}
+
+
+
+
+
+
+
+
+
+
+.get-button{
+    background-color:rgb(121,82,179);
+    color:rgb(255, 255, 255);
+    border-radius: 0px;
+    height: 34px;
+    width: 105px;
+    border-color:rgb(121,82,179);
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;}
+.get-button:hover {
+    background-color:rgb(67, 42, 120); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.load-button{
+    background-color:rgb(255,255,255);
+    color:rgb(108, 117, 125);
+    border: 1px solid grey;
+    height: 34px;
+    width: 105px;
+    border-color:rgb(108, 117, 125); 
+    font-weight: bold;
+    border-radius: 3px;}
+.load-button:hover{
+    background-color:rgb(78, 83, 87) ; 
+    color:rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+.on-button{
+    background-color: rgb(10, 102, 194);
+    color: aliceblue;
+    font-weight: bold;
+    border-radius:15px ;
+    height: 30px;
+    width: 205px;
+    border: none;
+
+}
+.on-button:hover{
+    background-color: rgb(4, 44, 83);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sa-button{
+    background-color: aliceblue;
+    color:rgb(10, 102, 194) ;
+    font-weight: bold;
+    height: 30px;
+    width:60px ;
+    border-radius: 15px;
+    border: 1px  solid;}
+.sa-button:hover{
+    background-color: rgb(191, 212, 234);
+    border-color: rgb(44, 101, 170);
+    border-width: blue;
+}
+
+
+
+
+
+
+a{
+ color:rgb(0, 113, 133) ;
+}
+.ff-button:hover{
+    color: rgb(255, 68, 0);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+.now-button{
+    background-color: orange;
+    color: black;
+    height: 30px;
+    width: 125px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+}
+.now-button:hover{background-color:rgb(255, 136, 0) ;
+    
+}
+.now-button:active{
+    opacity: 0.5;
+}
+
+
+
+
+
+
+.Ad-button{
+    background-color: rgb(225, 200, 73);
+     color: black;
+     height: 30px;
+     width: 125px;
+     border-radius: 15px;
+     border: none;
+     font-weight: bold;
+     font-size: 12px;
+     cursor: pointer;
+ }
+ .Ad-button:hover{
+    background-color:rgb(145, 120, 19) ;}
+
+    .Ad-button:active{
+     opacity: 0.5;
+}
+
+
+
+
+
+
+.sub-button{
+    background-color: rgb(187, 20, 20);
+    padding-left: 9px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 9px;
+    border: 1px solid red;
+    border-radius: 2px;
+    font-weight:large  ;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+.jo-button{
+    padding-left: 9px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 9px;
+    border: 1px solid rgb(100, 100, 249);
+    font-weight: bold;
+    color: light blue;
+}
+
+
+
+
+
+.op-button{
+    color: blue;
+}
+
+
+
+
+
+
+.bk-button{
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid;
+    padding-left:5px ;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 5px;
+}
+
+
+
+
+
+
+
+.nxt-button{
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid;
+    padding-left:5px ;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 5px;
+}
+
+
+
+
+
+
+.st-button{
+    background-color: rgb(17, 90, 17);
+    color: aliceblue;
+    font-weight: large;
+    padding-left: 15px;
+    padding-top:5px ;
+    padding-bottom:5px ;
+    padding-right: 15px;
+    border: 1px green solid;
+    border-radius: 2px;
+    transition: 0.9s;
+    }
+.st-button:hover{
+    background-color: rgb(17, 90, 17);
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-top:10px ;
+    padding-bottom:10px ;
+    padding-right: 30px;
+    border: 1px green solid;
+    border-radius: 2px;
+}  
+
+
+
+
+
+
+
+
+
+
+
+.sh-button{
+    background-color: rgb(17, 90, 17);
+    color: aliceblue;
+    font-weight: large;
+    padding-left: 15px;
+    padding-top:5px ;
+    padding-bottom:5px ;
+    padding-right: 15px;
+    border: 1px green solid;
+    border-radius: 2px;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.6);
+}
+.sh-button:active{
+   box-shadow: none;
+   
+}
+
+
+
+
+
+
+
+.one-button{
+    background-color: rgb(17, 90, 17);
+    color: aliceblue;
+    font-weight: bold;
+    border: 1px green solid;
+    border-radius: 2px;
+    height: auto;
+    width: auto;
+    transition: 0.7s;
+}
+.one-button:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+.two-button{
+    background-color: rgb(17, 90, 17);
+    color: aliceblue;
+    font-weight: bold;
+    border: 1px green solid;
+    border-radius: 2px;
+    height: auto;
+    width: auto;
+    transition: 0.7s;
+}
+.two-button:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
+.the-button{
+    background-color: rgb(17, 90, 17);
+    color: aliceblue;
+    font-weight: bold;
+    border: 1px green solid;
+    border-radius: 2px;
+    height: auto;
+    width: auto;
+    transition: 0.7s;
+}
+.the-button:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+}
